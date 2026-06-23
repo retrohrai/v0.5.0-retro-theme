@@ -9,6 +9,19 @@
     "BACKGROUNDS",
     "ICONS"
   ],
+  "settingsPreset": {
+    "schema": 1,
+    "global": {
+      "enablePlatformBrowser": true,
+      "platformBrowserViewMode": "Grid",
+      "platformGridColumns": 4,
+      "platformCardShowBackground": false,
+      "platformGridCardShape": "Square",
+      "platformCardForeground": "Icon",
+      "platformGridAnimateActiveCard": true,
+      "platformGridShowCardOutline": true
+    }
+  },
   "backgrounds": {
     "global": "backgrounds/global.gif",
     "platforms": {
